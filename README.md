@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="github-header-banner.png" alt="Header Banner" />
-</p>
-# 👋 Hi, I'm Mostafa Mohamed Mostafa
+![Header Banner](github-header-banner.png)
+
+
+# **👋 Hi, I'm Mostafa Mohamed Mostafa**
 
 📍 Based in Cairo, Egypt | 🎓 Computer Science graduate from FCIS, Ain Shams University
 
@@ -80,4 +80,3 @@ Here are some of my key projects that showcase my data science and machine learn
 
 ---
 
-![Footer Image](https://your-footer-image-url.com)
