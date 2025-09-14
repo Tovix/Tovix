@@ -70,11 +70,6 @@ Here are some of my key projects that showcase my data science and machine learn
 
 ---
 
-## 🎉 Fun Fact
-
-I once built a [neofetch-inspired README](https://github.com/Andrew6rant) that updates daily with my GitHub stats!
-
----
 
 ## 🔗 Useful Resources
 
