@@ -1,5 +1,7 @@
-
-# 👋 Hi, I'm Tovix (Mostafa Mohamed Mostafa)
+<p align="center">
+  <img src="github-header-banner.png" alt="Header Banner" />
+</p>
+# 👋 Hi, I'm Mostafa Mohamed Mostafa
 
 📍 Based in Cairo, Egypt | 🎓 Computer Science graduate from FCIS, Ain Shams University
 
