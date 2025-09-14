@@ -1,10 +1,10 @@
-![Header Image](https://your-image-url.com)
+![Header Image]([https://your-image-url.com](https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
 
 # 👋 Hi, I'm Tovix (Mostafa Mohamed Mostafa)
 
-📍 Based in Cairo, Egypt | 🎓 Recent Computer Science graduate from FCIS, Ain Shams University
+📍 Based in Cairo, Egypt | 🎓 Computer Science graduate from FCIS, Ain Shams University
 
-🔍 Aspiring Data Scientist | 📊 Python & SQL Specialist | 📈 DataCamp Certified | 💡 Machine Learning Enthusiast
+🔍 Aspiring Data Scientist | 📊 Python, SQL, and Machine Learning Enthusiast | 📈 Data-Driven Problem Solver
 
 ---
 
@@ -18,37 +18,37 @@ I'm a passionate data scientist with a strong foundation in computer science and
 
 ---
 
+## 📚 Featured Projects
+
+Here are some of my key projects that showcase my data science and machine learning capabilities:
+
+### 1. [Recipe Site Traffic Analysis](https://github.com/Tovix/Recipe-Site-Traffic-Analysis)
+- **Objective**: Analyze recipe site traffic data to identify key features influencing high-traffic recipes and build predictive models to classify recipes as high or low traffic.
+- **Tech Stack**: Python, Pandas, Scikit-learn
+- **Highlights**: Performed exploratory data analysis (EDA), feature engineering, and model training to predict recipe popularity.
+
+### 2. [E-commerce Customer Behavior Analysis](https://github.com/Tovix/E-commerceCustomerBehaviorAnalysis)
+- **Objective**: Analyze and segment e-commerce customer behavior to optimize marketing strategies and enhance customer satisfaction.
+- **Tech Stack**: Python, SQL, Tableau
+- **Highlights**: Conducted customer segmentation using clustering techniques and provided actionable business insights.
+
+### 3. [Bank Customer Call Subscription Analysis](https://github.com/Tovix/BankCustomerCallSubscriptionAnalysis)
+- **Objective**: Analyze bank customer call data to understand subscription patterns through advanced data cleaning pipelines and exploratory data analysis.
+- **Tech Stack**: Python, SQL, Excel, Business Intelligence Tools
+- **Highlights**: Developed data pipelines, performed EDA, and utilized BI tools to uncover insights into customer behavior.
+
+---
+
 ## 🛠️ Skills
 
 - **Languages**: Python, SQL
-- **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Tools**: Jupyter Notebook, Git, GitHub
+- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Tools**: Jupyter Notebook, Tableau, Excel, Git, GitHub
 - **Certifications**: DataCamp Data Scientist with Python Track
 
 ---
 
-## 📈 Featured Projects
-
-Here are some of my key projects that showcase my data science and machine learning capabilities:
-
-### 1. [Hospital Readmission Risk Analysis](https://github.com/Tovix/HospitalRiskAnalysis)
-- **Objective**: Predict the likelihood of patient readmission to hospitals.
-- **Tech Stack**: Python, Scikit-learn
-- **Highlights**: Implemented classification models to assess readmission risks, providing actionable insights for healthcare providers.
-
-### 2. [Recipe Site Traffic Analysis](https://github.com/Tovix/Recipe-Site-Traffic-Analysis)
-- **Objective**: Analyze traffic data to identify factors influencing high-traffic recipes.
-- **Tech Stack**: Python, Pandas, Matplotlib
-- **Highlights**: Conducted exploratory data analysis (EDA) and built predictive models to classify recipes based on traffic patterns.
-
-### 3. [Sports Classification Using Neural Networks](https://github.com/Tovix/SportsClassificationUsingNN)
-- **Objective**: Classify sports activities using neural networks.
-- **Tech Stack**: Python, TensorFlow
-- **Highlights**: Developed and trained neural network models to accurately classify various sports activities.
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![Tovix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tovix&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
